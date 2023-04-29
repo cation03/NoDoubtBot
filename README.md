@@ -2,7 +2,7 @@
 Made by @cation03 (Ananya Goyal, 2021011) and @sociallyencrypted (Mehul Arora, 2021066).
 
 
-NoDoubtBot is a discord bot with various resources to help you with your academic life, and gives you bite sized memes aand quotes to help you relax when you're tired!
+NoDoubtBot is a discord bot with various resources to help you with your academic life, and gives you bite sized memes and quotes to help you relax when you're tired!
 
 ## Resources
 - [GutenDex API](http://gutendex.com/)
